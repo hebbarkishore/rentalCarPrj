@@ -37,3 +37,4 @@ Architecture:
    not overlapping with the existing.
    c) we assume the date format in yyyy-MM-dd'T'HH:mm:ss.
    d) Initially when server starts we load the available cars from the car_data.json file to cars entity.
+9) Added Junit test cases to demostrate the same and also we can use this in any server to test using the rest service.
