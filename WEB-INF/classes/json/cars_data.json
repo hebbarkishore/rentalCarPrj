@@ -1,0 +1,18 @@
+[
+	{
+		"car_make": "Toyota",
+		"car_model": "Camry"
+	},
+	{
+		"car_make": "Honda",
+		"car_model": "Civic"
+	},
+	{
+		"car_make": "Nissan",
+		"car_model": "Altima"
+	},
+	{
+		"car_make": "Kia",
+		"car_model": "Optima"
+	}
+]
